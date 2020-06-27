@@ -1,0 +1,1 @@
+# store-configuration-to-enable-redux-trace-with-thunk
